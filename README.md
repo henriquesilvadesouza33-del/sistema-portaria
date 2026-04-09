@@ -8,10 +8,16 @@ Sistema desenvolvido em Python para controle de entrada e saída de visitantes.
 ## 🔧 Funcionalidades
 - Cadastro de visitantes
 - Registro de entrada e saída
+- Controle de acesso
 
 ## 💻 Tecnologias
 - Python
 - SQLite
 
 ## 🚀 Como executar
-python app.py
+1. Instale o Python
+2. Execute o comando:
+   python app.py
+
+## 📌 Sobre o projeto
+Aplicação desenvolvida com foco em organização de dados, usabilidade e simulação de um sistema real de portaria.
