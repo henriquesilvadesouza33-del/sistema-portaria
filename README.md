@@ -21,3 +21,6 @@ Sistema desenvolvido em Python para controle de entrada e saída de visitantes.
 
 ## 📌 Sobre o projeto
 Aplicação desenvolvida com foco em organização de dados, usabilidade e simulação de um sistema real de portaria.
+## 📸 Demonstração
+<img width="1440" height="853" alt="image" src="https://github.com/user-attachments/assets/ae895d26-d2d7-4ae3-8f30-8cd2ec7eabe1" />
+
